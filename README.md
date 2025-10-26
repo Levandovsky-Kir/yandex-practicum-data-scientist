@@ -94,6 +94,6 @@
 
 ---
 
-### 14. [Computer Vision — Age Prediction](./14_computer_vision/14_computer_vision.ipynb)  
+### [Computer Vision — Age Prediction](./14_computer_vision/14_computer_vision.ipynb)  
 Построение нейронной сети для определения возраста покупателей по фотографии.  
 **Теги:** `python`, `tensorflow.keras`, `ResNet50`, `CNN`, `computer vision`, `image preprocessing`, `MAE`.

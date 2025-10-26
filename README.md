@@ -90,10 +90,3 @@
 ### [Yandex Music — Basic Python](./01_yandex_music_basic_python/01_yandex_music_basic_python.ipynb)
 Сравнение музыкальных предпочтений пользователей Яндекс Музыки из Москвы и Санкт-Петербурга.  
 **Теги:** `python`, `pandas`, `data analysis`, `visualization`. 
-
-
----
-
-### [Computer Vision — Age Prediction](./14_computer_vision/14_computer_vision.ipynb)  
-Построение нейронной сети для определения возраста покупателей по фотографии.  
-**Теги:** `python`, `tensorflow.keras`, `ResNet50`, `CNN`, `computer vision`, `image preprocessing`, `MAE`.

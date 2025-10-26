@@ -5,7 +5,7 @@
 
 ---
 
-### 01. [Yandex Music — Basic Python](./01_yandex_music_basic_python/01_yandex_music_basic_python.ipynb)  
+### 01. [Yandex Music — Basic Python](./01_yandex_music_basic_python)  
 Сравнение поведения пользователей сервиса Яндекс Музыка в Москве и Санкт-Петербурге: активность по дням недели и жанровые предпочтения.  
 **Теги:** `python`, `pandas`, `data analysis`, `visualization`.
 

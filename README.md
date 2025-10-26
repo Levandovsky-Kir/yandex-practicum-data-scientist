@@ -89,7 +89,7 @@
 
 ### [Yandex Music — Basic Python](./01_yandex_music_basic_python/01_yandex_music_basic_python.ipynb)
 Сравнение музыкальных предпочтений пользователей Яндекс Музыки из Москвы и Санкт-Петербурга.  
-**Теги:** `python`, `pandas`, `data analysis`, `visualization`.
+**Теги:** `python`, `pandas`, `data analysis`, `visualization`. 
 
 
 ---

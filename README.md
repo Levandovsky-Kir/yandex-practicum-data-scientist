@@ -5,81 +5,92 @@
 
 ---
 
-### 01. [Yandex Music — Basic Python](./01_yandex_music_basic_python/01_basic_python_yandex_music.ipynb)  
-Сравнение поведения пользователей сервиса Яндекс Музыка в Москве и Санкт-Петербурге: активность по дням недели и жанровые предпочтения.  
-**Теги:** `python`, `pandas`, `data analysis`, `visualization`.
+### [Computer Vision — Age Prediction](./14_computer_vision/14_computer_vision.ipynb)
+Построение свёрточной нейронной сети для определения возраста покупателей по фотографии.  
+Модель помогает ритейл-компании автоматически определять возрастные группы покупателей для маркетинговых целей и контроля продажи алкоголя.  
+**Теги:** `python`, `tensorflow.keras`, `ResNet50`, `CNN`, `computer vision`, `image preprocessing`, `MAE`.
 
 ---
 
-### 02. [Credit Reliability — Data Preprocessing](./02_data_preprocessing/02_data_preprocessing.ipynb)  
-Исследование влияния семейного положения и количества детей клиента на факт погашения кредита в срок.  
-**Теги:** `python`, `pandas`, `data cleaning`, `missing values`, `categorical encoding`.
+### [Machine Learning for Texts — Comment Classification](./13_machine_learning_for_texts/13_machine_learning_for_texts.ipynb)
+Разработка модели для классификации комментариев пользователей интернет-магазина на позитивные и негативные.  
+Использованы методы векторизации текстов TF-IDF и языковая модель BERT.  
+**Теги:** `python`, `pandas`, `torch`, `TfidfVectorizer`, `LogisticRegression`, `BERT`, `NLP`, `text preprocessing`.
 
 ---
 
-### 03. [Real Estate Analysis — Exploratory Data Analysis](./03_exploratory_data_analysis/03_exploratory_data_analysis.ipynb)  
-Поиск факторов, влияющих на стоимость квартир на вторичном рынке недвижимости Санкт-Петербурга.  
-**Теги:** `python`, `pandas`, `matplotlib`, `EDA`.
+### [Time Series — Taxi Demand Forecasting](./12_time_series/12_time_series.ipynb)
+Построение модели прогнозирования количества заказов такси на следующий час, позволяющей оптимизировать работу водителей в периоды пикового спроса.  
+**Теги:** `python`, `pandas`, `statsmodels`, `time series`, `trend`, `seasonality`, `CatBoostRegressor`, `LGBMRegressor`.
 
 ---
 
-### 04. [Scooter Rental — Statistical Data Analysis](./04_statistical_data_analysis/04_statistical_data_analysis.ipynb)  
-Проверка гипотез и анализ пользовательских данных сервиса аренды самокатов GoFast.  
-**Теги:** `python`, `pandas`, `matplotlib`, `scipy.stats`, `t-test`, `p-value`, `statistics`.
+### [Numerical Methods — Car Price Prediction](./11_numerical_methods/11_numerical_methods.ipynb)
+Разработка модели для определения рыночной стоимости автомобилей на основе характеристик и параметров комплектации.  
+**Теги:** `python`, `pandas`, `seaborn`, `LinearRegression`, `CatBoost`, `LGBM`, `gradient boosting`, `ML`.
 
 ---
 
-### 05. [Game Sales — Integrated Project 1](./05_integrated_project/05_integrated_project.ipynb)  
-Анализ исторических данных о продажах игр и рейтингах на разных платформах.  
-**Теги:** `python`, `pandas`, `matplotlib`, `hypothesis testing`, `data visualization`.
+### [Basic SQL — Venture Funds Database](./10_basic_sql/10_basic_sql.ipynb)
+Работа с базой данных, содержащей информацию о венчурных фондах и инвестициях.  
+Выполнены запросы с применением подзапросов, оконных функций и CTE.  
+**Теги:** `PostgreSQL`, `SQL`, `joins`, `group by`, `CTE`, `window functions`.
 
 ---
 
-### 06. [Linear Models in Machine Learning](./06_linear_models_in_ml/06_linear_models_in_ml.ipynb)  
-Создание моделей для прогнозирования удоя и определения вкусовых характеристик молока на ферме.  
-**Теги:** `python`, `pandas`, `matplotlib`, `scikit-learn`, `LinearRegression`, `LogisticRegression`.
+### [Machine Learning in Business — Oil Production Optimization](./09_machine_learning_in_business/09_machine_learning_in_business.ipynb)
+Разработка модели для выбора оптимального региона добычи нефти с учётом прибыли и рисков.  
+Оценка доходности выполнена методом Bootstrap.  
+**Теги:** `python`, `pandas`, `matplotlib`, `LinearRegression`, `bootstrap`, `risk analysis`.
 
 ---
 
-### 07. [Supervised Learning — Model Quality](./07_supervised_learning_model_quality/07_supervised_learning_model_quality.ipynb)  
+### [HR Analytics — Integrated Project 2](./08_integrated_project_hr_analytics/08_integrated_project_hr_analytics.ipynb)
+Моделирование удовлетворённости сотрудников и вероятности увольнения на основе HR-данных компании.  
+**Теги:** `python`, `pandas`, `seaborn`, `scipy.stats`, `GridSearchCV`, `LogisticRegression`, `DecisionTree`, `KNeighborsClassifier`, `ML`.
+
+---
+
+### [Supervised Learning — Model Quality](./07_supervised_learning_model_quality/07_supervised_learning_model_quality.ipynb)
 Построение модели, предсказывающей вероятность снижения покупательской активности клиентов интернет-магазина.  
 **Теги:** `python`, `pandas`, `GridSearchCV`, `ROC-AUC`, `KNeighborsClassifier`, `DecisionTreeClassifier`, `SVC`, `feature importance`.
 
 ---
 
-### 08. [HR Analytics — Integrated Project 2](./08_integrated_project_hr_analytics/08_integrated_project_hr_analytics.ipynb)  
-Создание ML-решений для HR-отдела компании: прогноз удовлетворённости сотрудников и риск увольнения.  
-**Теги:** `python`, `pandas`, `seaborn`, `scipy.stats`, `GridSearchCV`, `LogisticRegression`, `DecisionTree`, `KNeighborsClassifier`.
+### [Linear Models in Machine Learning](./06_linear_models_in_ml/06_linear_models_in_ml.ipynb)
+Разработка моделей для прогнозирования удоя и определения вкусовых характеристик молока.  
+**Теги:** `python`, `pandas`, `matplotlib`, `scikit-learn`, `LinearRegression`, `LogisticRegression`.
 
 ---
 
-### 09. [Machine Learning in Business](./09_machine_learning_in_business/09_machine_learning_in_business.ipynb)  
-Определение оптимальных регионов для добычи нефти с помощью модели регрессии и анализа прибыли методом Bootstrap.  
-**Теги:** `python`, `pandas`, `matplotlib`, `LinearRegression`, `bootstrap`, `risk analysis`.
+### [Integrated Project 1 — Game Sales Analysis](./05_integrated_project/05_integrated_project.ipynb)
+Анализ исторических данных о продажах и рейтингах игр на различных платформах.  
+**Теги:** `python`, `pandas`, `matplotlib`, `hypothesis testing`, `data visualization`.
 
 ---
 
-### 10. [Basic SQL — Venture Funds Database](./10_basic_sql/10_basic_sql.ipynb)  
-Работа с базой данных, содержащей информацию о венчурных фондах и инвестициях: подзапросы, группировка, оконные функции.  
-**Теги:** `PostgreSQL`, `SQL`, `joins`, `group by`, `CTE`, `window functions`.
+### [Statistical Data Analysis — Scooter Rental](./04_statistical_data_analysis/04_statistical_data_analysis.ipynb)
+Проверка гипотез и анализ данных сервиса аренды самокатов GoFast.  
+**Теги:** `python`, `pandas`, `matplotlib`, `scipy.stats`, `t-test`, `p-value`, `statistics`.
 
 ---
 
-### 11. [Numerical Methods — Car Price Prediction](./11_numerical_methods/11_numerical_methods.ipynb)  
-Определение рыночной стоимости автомобилей для сервиса объявлений на основе данных о характеристиках и комплектациях.  
-**Теги:** `python`, `pandas`, `seaborn`, `LinearRegression`, `CatBoost`, `LGBM`, `gradient boosting`.
+### [Exploratory Data Analysis — Real Estate](./03_exploratory_data_analysis/03_exploratory_data_analysis.ipynb)
+Исследовательский анализ данных сервиса Яндекс Недвижимость для определения факторов, влияющих на стоимость квартир.  
+**Теги:** `python`, `pandas`, `matplotlib`, `EDA`.
 
 ---
 
-### 12. [Time Series — Taxi Demand Forecasting](./12_time_series/12_time_series.ipynb)  
-Построение модели прогнозирования количества заказов такси на следующий час.  
-**Теги:** `python`, `pandas`, `statsmodels`, `time series`, `trend`, `seasonality`, `CatBoostRegressor`, `LGBMRegressor`.
+### [Data Preprocessing — Credit Reliability](./02_data_preprocessing/02_data_preprocessing.ipynb)
+Исследование надёжности заёмщиков и влияния семейного положения и количества детей на погашение кредита в срок.  
+**Теги:** `python`, `pandas`, `data cleaning`, `missing values`, `categorical encoding`.
 
 ---
 
-### 13. [Machine Learning for Texts — Comment Classification](./13_machine_learning_for_texts/13_machine_learning_for_texts.ipynb)  
-Разработка модели для классификации пользовательских комментариев интернет-магазина на позитивные и негативные.  
-**Теги:** `python`, `pandas`, `torch`, `TfidfVectorizer`, `LogisticRegression`, `BERT`, `text preprocessing`.
+### [Yandex Music — Basic Python](./01_yandex_music_basic_python/01_yandex_music_basic_python.ipynb)
+Сравнение музыкальных предпочтений пользователей Яндекс Музыки из Москвы и Санкт-Петербурга.  
+**Теги:** `python`, `pandas`, `data analysis`, `visualization`.
+
 
 ---
 

@@ -5,6 +5,13 @@
 
 ---
 
+### [Customer Churn Prediction — Telecom Company](./15_customer_churn_prediction/15_customer_churn_prediction.ipynb)  
+Создание модели машинного обучения для прогнозирования оттока клиентов телеком-компании.  
+Модель анализирует данные о контрактах, платежах и подключённых услугах, помогая бизнесу выявлять клиентов с высоким риском ухода и разрабатывать стратегии удержания.  
+**Теги:** `python`, `pandas`, `catboost`, `xgboost`, `classification`, `GridSearchCV`, `feature importance`, `business analytics`, `ML pipeline`.
+
+---
+
 ### [Computer Vision — Age Prediction](./14_computer_vision/14_computer_vision.ipynb)
 Построение свёрточной нейронной сети для определения возраста покупателей по фотографии.  
 Модель помогает ритейл-компании автоматически определять возрастные группы покупателей для маркетинговых целей и контроля продажи алкоголя.  
